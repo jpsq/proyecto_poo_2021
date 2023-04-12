@@ -1,0 +1,20 @@
+Durante este proyecto no se uso Git ni ningun otro sistema de versionado, por ende aqui estan las notas de los parches.
+
+2.9: funcional todo lo testeado, imagenes debe cambiarse la direccion manualmente
+3.0: valen agrego la carpeta resources pero desaparecen cuadrados en la visualizacion
+3.1: hice correcciones a la interfaz y agregue funciones de archivos de mapa, junto con 2 botones, ninguno es funcional. 
+     El problema de visualizacion de la version anterior sin corregir
+3.2: solucionado error de visualizacion (faltaban importar imagenes al archivo resources)
+     nota: hay codigo q eliminar
+3.3: codigo innecesario eliminado, ahora se puede generar varios mapas en 1 sola ejecucion, falta enviar mensaje al usar generar mapa
+     fallos descubiertos: al generar un nuevo mapa debe setearse correctamento los habilitados de los botones pausa y reanudar
+     al generarse un mapa mas pequeño luego de una mas grande, el segundo mapa tendra casillas excedentes, ver solucion, sino quitar sistema de varias generaciones
+3.4: cambios de fabian incompletos, ciertos errores
+3.5: continuacion directa de la version 0.33, parcheado seteo de botones pausa y reanudar
+3.6: ahora es posible guardar una simulacion previa y cargarla, algunos cambios en botones
+     fallo: nose xq pero se crasheaba al intentar crear un struct anidado a un vector struct si este ultimo era de mas de 
+     14 posiciones, por ende el algoritmo solo puede guardar 14 ciervos por casilla, lo cual no creo q sea un problema 
+     (el algoritmo no detecta si la casilla tenia mas de 14 por ende si esto sucediera el programa crashearia en vez de eliminar 
+     los ciervos de mas), esto es un problema q surgio del lenguaje nose muy bien xq la vdd ya que se deberia poder tener un struct con un vector de struct por composicion sin problema
+3.65: Simplemente retoques muy pequeños en los botones, y correcciones el mensaje inicial, advertencia sobre mal generacion del display en algunos casos.
+3.7: (no se entrego), parche sobre el error de crear un mapa menor luego de uno mas grande solucionado, tenia errores al cargar una simulacion guardada y por falta de tiempo se entrego la 3.65	
