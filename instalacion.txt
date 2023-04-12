@@ -1,0 +1,9 @@
+Si tienes problemas con la release, puedes recargar las librerias con el comando
+
+"windeployqt.exe --no-translations ."
+
+en la carpeta del archivo .exe.
+
+El argumento "--no-translations" no deberia de ser necesario, solo uselo en caso de obtener un "Acces denied" en el proceso.
+
+Nota: En Windows puede usar la consola MinGW para tener acceso a windeployqt.
