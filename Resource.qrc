@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/iconostp3">
+        <file>iconostp3/mesetas.png</file>
+        <file>iconostp3/mesetas_ca.png</file>
+        <file>iconostp3/mesetas_cb.png</file>
+        <file>iconostp3/mesetas_m.png</file>
+        <file>iconostp3/montanias.png</file>
+        <file>iconostp3/pastizal seco.png</file>
+        <file>iconostp3/pastizal.png</file>
+        <file>iconostp3/pastizal_ca.png</file>
+        <file>iconostp3/pastizal_cb.png</file>
+        <file>iconostp3/pastizal_m.png</file>
+        <file>iconostp3/pastizal_seco.png</file>
+        <file>iconostp3/pastizal_seco_ca.png</file>
+        <file>iconostp3/pastizal_seco_cb.png</file>
+        <file>iconostp3/pastizal_seco_m.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>../../iconostp3/mesetas.png</file>
+        <file>../../iconostp3/mesetas_ca.png</file>
+        <file>../../iconostp3/mesetas_cb.png</file>
+        <file>../../iconostp3/mesetas_m.png</file>
+        <file>../../iconostp3/montanias.png</file>
+        <file>../../iconostp3/pastizal.png</file>
+        <file>../../iconostp3/pastizal_ca.png</file>
+        <file>../../iconostp3/pastizal_cb.png</file>
+        <file>../../iconostp3/pastizal_m.png</file>
+        <file>../../iconostp3/pastizal_seco.png</file>
+        <file>../../iconostp3/pastizal_seco_ca.png</file>
+        <file>../../iconostp3/pastizal_seco_cb.png</file>
+        <file>../../iconostp3/pastizal_seco_m.png</file>
+    </qresource>
+</RCC>
