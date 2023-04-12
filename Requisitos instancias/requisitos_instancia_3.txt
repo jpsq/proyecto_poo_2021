@@ -1,0 +1,6 @@
+Trabajo practica Programacion Orientada a Objetos - cursada 2021.
+Entrega No.3 requisitos:
+
+Implementacion de archivos para:
+Guardar el estado actual simulacion y poder continuarla despues.
+Guardar las configuraciones de la simulacion.
