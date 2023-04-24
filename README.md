@@ -16,7 +16,8 @@ En lineas generales:
 
 El software debe presentar un mapa de 30 por 30 (dato que puede ser configurable) el cual 
 contenga montaña (área donde no puede avanzar el ciervo) y meseta (área donde puede 
-avanzar el ciervo) , la meseta no tiene áreas cerradas.
+avanzar el ciervo) y pastizal (area donde puede avanzar el ciervo y alimentarse).
+El mapa no tiene areas cerradas por montañas.
 La población de ciervos se mueve de forma aleatoria por el mapa y mueve un casillero por 
 día, a la vez puede encontrar pastizales, los cuales se encuentran de forma aleatoria en el 
 mapa. Si los ciervos no encuentran pastizales por 3 días, la población muere. Los pastizales
