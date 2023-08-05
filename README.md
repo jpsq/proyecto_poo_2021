@@ -7,7 +7,9 @@ El proyecto consto de 3 instancias a lo largo del año, requisitos de cada insta
 El codigo representa la version de la tercera instancia, cabe recalcar que los requistos son acumulativos.
 
 Requisitos instancia #1: https://github.com/jpsq/proyecto_poo_2021/blob/master/Requisitos%20instancias/requisitos_instancia_1.pdf
+
 Requisitos instancia #2: https://github.com/jpsq/proyecto_poo_2021/blob/master/Requisitos%20instancias/requisitos_instancia_2.pdf
+
 Requisitos instancia #3: https://github.com/jpsq/proyecto_poo_2021/blob/master/Requisitos%20instancias/requisitos_instancia_3.txt
 
 Diagrama UML de la version final: https://github.com/jpsq/proyecto_poo_2021/blob/master/Diagramas/uml_class_diagram.png
